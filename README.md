@@ -30,11 +30,23 @@ LearnJPEG will bring in revenue from the multiple sources, but our main source o
 <h2><u>FEATURES</u></h2>
 Lorem Ipsum
 
-</br><b>• Mint Here -</b> A
+</br><b>• Portfolio -</b> A lorem ipsum text
 
-</br><b>• Mint Here -</b> A
+</br><b>• Learn & Earn -</b> A lorem ipsum text
 
-</br><b>• Mint Here -</b> A
+</br><b>• Rewards -</b> A lorem ipsum text
+
+</br><b>• Mint Here -</b> A lorem ipsum text
+
+</br><b>• Profiles -</b> A lorem ipsum text
+
+</br><b>• Glossary -</b> A lorem ipsum text
+
+</br><b>• Markets -</b> A lorem ipsum text
+
+</br><b>• Social Tokens -</b> A lorem ipsum text
+
+</br><b>• Newsletter -</b> A lorem ipsum text
 </br>
 </br>
 <h2><u>OFFICIAL LINKS:</u></h2>
