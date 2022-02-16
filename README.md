@@ -17,8 +17,12 @@ Enter LearnJPEG. We have designed a NFT Education platform with a lot of added u
 <h2><u>MISSION</u></h2>
 We as a company believe in providing NFT education to the masses and that is the reason behind all our corses being free of cost. Our mission is to onboard & educate 1,000,000+ New NFT users in the next few years through our platform & our resources. </br>
 </br>
+</br>
 <h2><u>TEAM</u></h2>
-The platform was the proposed & designed by Shubham Kumar (Twitter - @0xshub). The platform development was/is outsourced to 2 web development firms which were located in India and UK. The content on our website will/is be published by our employees & contributors and they are/will be compensated from our platform revenue </br>
+The platform was the proposed & designed by Shubham Kumar (Twitter - @0xshub). The platform development was/is outsourced to 2 web development firms which were located in India and UK. The content on our website will/is be published by our employees & contributors and they are/will be compensated from our platform revenue. </br>
+</br>
+<h2><u>REVENUE MODEL</u></h2>
+The platform was the proposed & designed by Shubham Kumar (Twitter - @0xshub). The platform development was/is outsourced to 2 web development firms which were located in India and UK. The content on our website will/is be published by our employees & contributors and they are/will be compensated from our platform revenue. </br>
 </br>
 <h2><u>OFFICIAL LINKS:</u></h2>
 Website - https://www.learnjpeg.com </br>
