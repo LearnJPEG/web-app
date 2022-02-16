@@ -62,3 +62,4 @@ Instagram - https://www.instagram.com/LearnJPEG </br>
 <h2><u>SUPPORT</u></h2>
 Have a question or want to say hi?</br>
 Reach out to us at <a href='mailto:learnjpeg@gmail.com' target="_blank">learnjpeg@gmail.com</a>
+</br>
