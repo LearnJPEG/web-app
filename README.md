@@ -1,5 +1,4 @@
 <img width="2000" alt="LearnJPEG Github" src="https://user-images.githubusercontent.com/99763245/154221279-3c950bb4-047b-4b1a-b23b-44b6429e8285.png">
-</br>
 <h2><u>INTRODUCTION</u></h2>
 NFT trading activity has more than doubled between July and August 2021, according to the number of unique wallets that either bought or sold an NFT. By August 2021, there were roughly 280,000 unique buyers or sellers (the source does not distinguish between the two - after a growth of 185,000 unique wallets).
 
