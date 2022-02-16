@@ -15,7 +15,7 @@ Enter LearnJPEG. We have designed a NFT Education platform with a lot of added u
 </br>
 </br>
 <h2><u>MISSION</u></h2>
-We as a company believe in providing NFT education to the masses and that is the reason behind all our corses being free of cost. Our mission is to onboard & educate 1,000,000+ New NFT users in the next few years through our platform & our resources. </br>
+We as a company believe in providing NFT education to the masses and that is the reason behind all our corses being free of cost. Our mission is to onboard & educate 1,000,000+ New NFT users in the next few years through our platform & our resources. 
 </br>
 </br>
 <h2><u>TEAM</u></h2>
