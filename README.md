@@ -27,6 +27,12 @@ LearnJPEG will bring in revenue from the multiple sources, but our main source o
 </br><b>• Mint Here -</b> We provide an option for project listings under Mint Here on our website and projects can apply for this directly on our website. These applications are screened by our team and only handpicked & curated projects will be listed. This would allow a project to allow our users to mint directly from their contract. This will attract a listing fees for the project. We will also provide dedicated support during the mint period of a project and will provide analytical data to provide a better insight on the minters. We will be limiting our focus towards profit by limiting the Mint Here listings to only 10 a month.
 </br>
 </br>
+<h2><u>FEATURES</u></h2>
+Lorem Ipsum
+
+</br><b>• Mint Here -</b> We provide an option for project listings under Mint Here on our website and projects can apply for this directly on our website. These applications are screened by our team and only handpicked & curated projects will be listed. This would allow a project to allow our users to mint directly from their contract. This will attract a listing fees for the project. We will also provide dedicated support during the mint period of a project and will provide analytical data to provide a better insight on the minters. We will be limiting our focus towards profit by limiting the Mint Here listings to only 10 a month.
+</br>
+</br>
 <h2><u>OFFICIAL LINKS:</u></h2>
 Website - https://www.learnjpeg.com </br>
 Blog - https://learnjpeg.com/blog </br>
