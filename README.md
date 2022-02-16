@@ -10,7 +10,7 @@ The major problem faced by these New Users are education & onboarding. There is 
 How do we plan on fixing this?
 Enter LearnJPEG. We have designed a NFT Education platform with a lot of added utilities + benefits for learners. The main function of our platform will be:
 </br>
-• Learn & Earn - This will allow new users to enrol into NFT + Web3 courses and earn in-app coins for successfully completing the course. These courses will contain a variety of content, such as text guides, videos, podcasts & more. The course will be followed by some questions which would authenticate wether a user really learnt. On successful completion of the course, the user would receive a fixed no. of coins. These coins can be converted into NFTs, merch or other goodies using our Rewards Store. All courses on our platform will be free of cost and we promise to never display any ads.
+<b>• Learn & Earn -</b> This will allow new users to enrol into NFT + Web3 courses and earn in-app coins for successfully completing the course. These courses will contain a variety of content, such as text guides, videos, podcasts & more. The course will be followed by some questions which would authenticate wether a user really learnt. On successful completion of the course, the user would receive a fixed no. of coins. These coins can be converted into NFTs, merch or other goodies using our Rewards Store. All courses on our platform will be free of cost and we promise to never display any ads.
 </br>
 </br>
 <h2><u>MISSION</u></h2>
