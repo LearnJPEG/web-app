@@ -14,8 +14,7 @@ Enter LearnJPEG. We have designed a NFT Education platform with a lot of added u
 </br>
 </br>
 <h2><u>MISSION</u></h2>
-Our team is committed to the future of blockchain technology and is enamoured by the utility of smart contracts. As the world transitions to Web3 and becomes increasingly interconnected, there is boundless potential for Decentralised Autonomous Organisations to act as transparent and self-sustainable organisations capable of functioning without human interaction for a community.</br>
-Our roadmap is very collaborative and will further be proposed & voted on by our Members Pass holders. With imaginative ideas, adequate resources and coordination, we believe we can bring Raffles to the Metaverse!</br>
+We as a company believe in providing NFT education to the masses and that is the reason behind all our corses being free of cost. Our mission is to onboard & educate 1,000,000+ New NFT users in the next few years through our platform & our resources. </br>
 </br>
 <h2><u>OFFICIAL LINKS:</u></h2>
 Website - https://www.learnjpeg.com </br>
